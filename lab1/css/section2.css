@@ -1,0 +1,35 @@
+image.illustration2 {
+    position: relative;
+    width: 650px;
+    height: 467px;
+    left: 137px;
+}
+h1.leading {
+    font-size: 36px;
+}
+button.Learn {
+    width: 200px;
+    height: 55px;
+    border-radius: 50px;
+    background-color: white;
+    color:dodgerblue; 
+    border:1px solid dodgerblue;
+}
+div.rectangle {
+    height:2px;
+    width:56px;
+    background-color: black;
+    border-radius: 10px;
+}
+div6 {
+    margin-top: 1000px;
+    margin-left: 138px;
+    position: absolute;
+    width: 650px;
+    height: 467px;
+}
+div7 {
+    position: absolute;
+    top: 1060px;
+    left: 930px;
+}

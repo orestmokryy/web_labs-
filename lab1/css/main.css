@@ -1,0 +1,44 @@
+
+
+
+div.footer {
+    position: absolute;
+    top:3032px;
+    width: 100%;
+    height: 165px;
+    background: linear-gradient(#67C3F3, #5A98F2);
+    color: white;
+}
+img.logo2 {
+    width: 30px;
+    height: 30px;
+    position: relative;  
+    margin-left: 227px;
+    top:8px;
+}
+a.trefalgar {
+    margin-right: 20%;
+    color: white;
+}
+a.footerArticle {
+    margin-left: 177px;
+    color: white;
+}
+img.dots2 {
+    left: 11px;
+    top:3121px;
+    position: absolute;
+    width:80px;
+    height: 68px;
+}
+img.dots3 {
+    position: absolute;
+    left: 1380px;
+    top: 2970px;
+    width:110px;
+    height: 55px;
+}
+div.page {
+    max-width: 80%;
+    margin: 0 auto;
+}

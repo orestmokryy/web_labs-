@@ -1,0 +1,137 @@
+div.services {
+    position: absolute;
+    text-align: center;
+    left: 43.25%;
+    right: 43.5%;
+    top: 1684px;
+}
+div.rectangle2 {
+    position: absolute;
+    height:2px;
+    width:56px;
+    background-color: black;
+    border-radius: 10px;
+    left: 38%;
+}
+p.servicesText{
+    position: absolute;
+    text-align: center;
+    top: 1801px;
+    left: 20%;
+    right: 20.5%;
+}
+div.block1 {
+    position: absolute;
+    border: none;
+    top: 1941px;
+    left: 240px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+img.search {
+    margin-left: 37px;
+    margin-top: 54px;
+    width: 90px;
+    height: 92px;
+}
+div.background {
+    position: absolute;
+    top: 1870px;
+    left: -100px;
+}
+img.vector {
+    transform: rotate(21deg);
+}
+img.pharmacy {
+    width: 62px;
+    height: 84px;
+    margin-left: 37px;
+    margin-top: 63px; 
+}
+div.block2 {
+    position: absolute;
+    border: none;
+    top: 1941px;
+    left: 624px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+div.block3 {
+    position: absolute;
+    border: none;
+    top: 1941px;
+    left: 1010px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+img.consultation {
+    margin-left: 37px;
+    margin-top: 47px; 
+    height: 95px;
+    width: 67px;
+}
+div.block4 {
+    position: absolute;
+    border: none;
+    top: 2332px;
+    left: 240px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+img.details {
+    margin-left: 37px;
+    margin-top: 46px; 
+    height: 95px;
+    width: 67px;
+}
+div.block5 {
+    position: absolute;
+    border: none;
+    top: 2332px;
+    left: 624px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+img.care{
+    margin-left: 37px;
+    margin-top: 59px;
+    width: 80px;
+    height: 71px;
+}
+div.block6 {
+    position: absolute;
+    border: none;
+    top: 2332px;
+    left: 1010px;
+    border-radius: 20px;
+    width: 354px;
+    height: 350px;
+    background-color: white;
+}
+img.tracking {
+    margin-left: 38px;
+    margin-top: 52px;
+    width: 70px;
+    height: 95px;
+}
+button.learnMore {
+    position: absolute;
+    left: 43%;
+    top: 2758px;
+    width: 200px;
+    height: 55px;
+    border-radius: 50px;
+    background-color: white;
+    color:dodgerblue; 
+    border:1px solid dodgerblue;
+}

@@ -1,0 +1,27 @@
+a2 {
+    margin-right: 40px;
+}
+a3 {
+    margin-right: 40px;
+    color: grey;
+}
+a1 {
+    font-size: 18px;
+    margin-right: 800px;
+    
+}
+div1 {
+    top: 20px;
+}
+div2 {
+    position: relative;
+}
+div3 {
+    position: absolute;
+    top: 13px;
+}
+img.logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 60px;
+}
